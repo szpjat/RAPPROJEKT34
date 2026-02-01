@@ -1,0 +1,859 @@
+author_id,author,num_lines,char_count,source_path
+1,$ierra,39,1716,data/raw/$ierra.txt
+2,2020,18,594,data/raw/2020.txt
+3,2K,17,744,data/raw/2K.txt
+4,2sty,19,622,data/raw/2sty.txt
+5,360MI,21,969,data/raw/360MI.txt
+6,3Y Gun Kara,21,849,data/raw/3Y Gun Kara.txt
+7,4tune,17,967,data/raw/4tune.txt
+8,730 Huncho,38,1442,data/raw/730 Huncho.txt
+9,ADM,20,868,data/raw/ADM.txt
+10,AK-47,15,854,data/raw/AK-47.txt
+11,AKS,24,913,data/raw/AKS.txt
+12,ALBI,17,606,data/raw/ALBI.txt
+13,ARTVR,20,870,data/raw/ARTVR.txt
+14,ATR MF,2,24,data/raw/ATR MF.txt
+15,AdMa,20,868,data/raw/AdMa.txt
+16,Adam Bodnar,25,1015,data/raw/Adam Bodnar.txt
+17,Adam,56,2700,data/raw/Adam.txt
+18,Adamz,56,2700,data/raw/Adamz.txt
+19,Adi Nowak,33,1728,data/raw/Adi Nowak.txt
+20,Aero,43,2441,data/raw/Aero.txt
+21,Ajkan,17,708,data/raw/Ajkan.txt
+22,Ajman,17,708,data/raw/Ajman.txt
+23,Ajter,21,905,data/raw/Ajter.txt
+24,Alberto,26,1379,data/raw/Alberto.txt
+25,Albi,17,606,data/raw/Albi.txt
+26,Alergen,14,530,data/raw/Alergen.txt
+27,Aleshen,14,530,data/raw/Aleshen.txt
+28,Alex,25,1164,data/raw/Alex.txt
+29,Ali471,41,1448,data/raw/Ali471.txt
+30,Alien,45,1910,data/raw/Alien.txt
+31,Alpa Lzk,24,1181,data/raw/Alpa Lzk.txt
+32,Amar 8YG,12,414,data/raw/Amar 8YG.txt
+33,Ambro,18,529,data/raw/Ambro.txt
+34,AnDess,36,1738,data/raw/AnDess.txt
+35,Andrzej Duda,33,1862,data/raw/Andrzej Duda.txt
+36,Andrzej Piaseczny,17,563,data/raw/Andrzej Piaseczny.txt
+37,Andrzej Seweryn,22,1116,data/raw/Andrzej Seweryn.txt
+38,Angie,2,24,data/raw/Angie.txt
+39,Ankou,24,935,data/raw/Ankou.txt
+40,Antoine,33,1089,data/raw/Antoine.txt
+41,Arab,23,1032,data/raw/Arab.txt
+42,Arczi Szajka,21,690,data/raw/Arczi Szajka.txt
+43,Aron HBR,24,1237,data/raw/Aron HBR.txt
+44,Artur Andrus,27,1693,data/raw/Artur Andrus.txt
+45,Artur Dziambor,67,2136,data/raw/Artur Dziambor.txt
+46,Asik,17,712,data/raw/Asik.txt
+47,Athletico 2115,18,1034,data/raw/Athletico 2115.txt
+48,Augustyn,25,1145,data/raw/Augustyn.txt
+49,Avi,19,846,data/raw/Avi.txt
+50,Awalas,24,1080,data/raw/Awalas.txt
+51,Ayamcamani,29,1166,data/raw/Ayamcamani.txt
+52,B.A.D,47,2276,data/raw/B.A.D.txt
+53,B.R.O.,28,1349,data/raw/B.R.O..txt
+54,B24,39,1504,data/raw/B24.txt
+55,BBX,22,1107,data/raw/BBX.txt
+56,BRK,28,1349,data/raw/BRK.txt
+57,BRLSN,17,912,data/raw/BRLSN.txt
+58,BTK,28,977,data/raw/BTK.txt
+59,Bajorson,47,2276,data/raw/Bajorson.txt
+60,Baks,21,985,data/raw/Baks.txt
+61,Bambo the Smuggler,21,832,data/raw/Bambo the Smuggler.txt
+62,Baron,36,1628,data/raw/Baron.txt
+63,Barto'cut12,29,1407,data/raw/Barto'cut12.txt
+64,Bartosz Kapustka,18,1383,data/raw/Bartosz Kapustka.txt
+65,Bażant,43,2016,data/raw/Bażant.txt
+66,Bede,30,2648,data/raw/Bede.txt
+67,Bedoes,30,2648,data/raw/Bedoes.txt
+68,Beka KSH,28,977,data/raw/Beka KSH.txt
+69,Berson,33,892,data/raw/Berson.txt
+70,Beteo,28,1232,data/raw/Beteo.txt
+71,Beuz,24,961,data/raw/Beuz.txt
+72,Biak,74,2424,data/raw/Biak.txt
+73,Białas,74,2424,data/raw/Białas.txt
+74,Biernol,17,701,data/raw/Biernol.txt
+75,Bisz,19,819,data/raw/Bisz.txt
+76,Blacha,25,949,data/raw/Blacha.txt
+77,Blejk,17,813,data/raw/Blejk.txt
+78,Blizna,33,1623,data/raw/Blizna.txt
+79,Blowek,17,723,data/raw/Blowek.txt
+80,Bober,33,1535,data/raw/Bober.txt
+81,Bobson,26,1174,data/raw/Bobson.txt
+82,Bokser,2,38,data/raw/Bokser.txt
+83,Bolo,17,723,data/raw/Bolo.txt
+84,Bombel,22,1107,data/raw/Bombel.txt
+85,Bonez,22,1298,data/raw/Bonez.txt
+86,Bonson,26,1174,data/raw/Bonson.txt
+87,Boomber,33,1535,data/raw/Boomber.txt
+88,Borixon,21,1093,data/raw/Borixon.txt
+89,Borns,30,2648,data/raw/Borns.txt
+90,Borucci,31,620,data/raw/Borucci.txt
+91,Bosski Roman,28,1429,data/raw/Bosski Roman.txt
+92,Boxdel,22,1107,data/raw/Boxdel.txt
+93,Brian,25,983,data/raw/Brian.txt
+94,Brodka,26,891,data/raw/Brodka.txt
+95,Brutny,40,2568,data/raw/Brutny.txt
+96,Bryan,2,24,data/raw/Bryan.txt
+97,Bryndal,2,24,data/raw/Bryndal.txt
+98,Brzydal,2,24,data/raw/Brzydal.txt
+99,Bu,43,1694,data/raw/Bu.txt
+100,Buczer,44,1629,data/raw/Buczer.txt
+101,Budda,43,1757,data/raw/Budda.txt
+102,Buka,20,676,data/raw/Buka.txt
+103,Butgra,43,1694,data/raw/Butgra.txt
+104,Bzyku,17,722,data/raw/Bzyku.txt
+105,CBR,18,836,data/raw/CBR.txt
+106,CatchUp,22,885,data/raw/CatchUp.txt
+107,CdoZ,23,1240,data/raw/CdoZ.txt
+108,CeZik,38,1477,data/raw/CeZik.txt
+109,Ceka,2,24,data/raw/Ceka.txt
+110,Ceter,17,701,data/raw/Ceter.txt
+111,Cheatz,27,803,data/raw/Cheatz.txt
+112,Chivas,17,907,data/raw/Chivas.txt
+113,Chwytak,20,584,data/raw/Chwytak.txt
+114,Cinek,20,619,data/raw/Cinek.txt
+115,Cleo,19,603,data/raw/Cleo.txt
+116,Coals,41,1392,data/raw/Coals.txt
+117,Czarek Jóźwik,19,1147,data/raw/Czarek Jóźwik.txt
+118,Czerwin TWM,17,776,data/raw/Czerwin TWM.txt
+119,Czeski,17,776,data/raw/Czeski.txt
+120,Czorny,17,1030,data/raw/Czorny.txt
+121,Człowień,52,1985,data/raw/Człowień.txt
+122,DEJW,17,574,data/raw/DEJW.txt
+123,DJ Black Belt Greg,17,658,data/raw/DJ Black Belt Greg.txt
+124,DJ Buhh,31,1234,data/raw/DJ Buhh.txt
+125,DJ Fauda,24,931,data/raw/DJ Fauda.txt
+126,DJ Johny,17,535,data/raw/DJ Johny.txt
+127,DJ Remisz,31,1435,data/raw/DJ Remisz.txt
+128,DJ Te,32,957,data/raw/DJ Te.txt
+129,DOKA,19,868,data/raw/DOKA.txt
+130,Damian,47,2276,data/raw/Damian.txt
+131,Daria Zawiałow,21,669,data/raw/Daria Zawiałow.txt
+132,Dawid Podsiadło,27,924,data/raw/Dawid Podsiadło.txt
+133,Dazior,53,1158,data/raw/Dazior.txt
+134,Deamon,25,988,data/raw/Deamon.txt
+135,Dedis,56,1610,data/raw/Dedis.txt
+136,Deemz,18,562,data/raw/Deemz.txt
+137,Dejan,17,749,data/raw/Dejan.txt
+138,Dejlu,25,988,data/raw/Dejlu.txt
+139,Del-M,32,939,data/raw/Del-M.txt
+140,Delekta,17,1018,data/raw/Delekta.txt
+141,Delph,17,814,data/raw/Delph.txt
+142,Dennis,33,1150,data/raw/Dennis.txt
+143,Deps,22,868,data/raw/Deps.txt
+144,Deutsch,17,554,data/raw/Deutsch.txt
+145,Deys,21,1177,data/raw/Deys.txt
+146,Dharni,21,669,data/raw/Dharni.txt
+147,Diament,17,653,data/raw/Diament.txt
+148,Diho,27,1078,data/raw/Diho.txt
+149,Dister,47,1500,data/raw/Dister.txt
+150,Dizkret,17,662,data/raw/Dizkret.txt
+151,Dla Pieniędzy,21,523,data/raw/Dla Pieniędzy.txt
+152,Doda,19,868,data/raw/Doda.txt
+153,Dogas,41,1888,data/raw/Dogas.txt
+154,Dokkeytino,17,404,data/raw/Dokkeytino.txt
+155,Domi,17,554,data/raw/Domi.txt
+156,DonGURALesko,48,1628,data/raw/DonGURALesko.txt
+157,Doniu,48,1628,data/raw/Doniu.txt
+158,Dono,48,1628,data/raw/Dono.txt
+159,Dryja,17,689,data/raw/Dryja.txt
+160,Duke102,2,20,data/raw/Duke102.txt
+161,Duże Pe,17,693,data/raw/Duże Pe.txt
+162,Dwa Sławy,41,1587,data/raw/Dwa Sławy.txt
+163,Dziarma,67,2136,data/raw/Dziarma.txt
+164,Dziemian,25,1059,data/raw/Dziemian.txt
+165,Dżej Dżej,17,1099,data/raw/Dżej Dżej.txt
+166,E V,18,759,data/raw/E V.txt
+167,EFES,17,770,data/raw/EFES.txt
+168,EMAS,32,957,data/raw/EMAS.txt
+169,ENES,26,768,data/raw/ENES.txt
+170,Egon,32,1593,data/raw/Egon.txt
+171,Ejten,26,1367,data/raw/Ejten.txt
+172,Eldo,19,753,data/raw/Eldo.txt
+173,Elliot,17,709,data/raw/Elliot.txt
+174,EmKaTus,20,1055,data/raw/EmKaTus.txt
+175,EmTe,26,1367,data/raw/EmTe.txt
+176,Emikae,20,1055,data/raw/Emikae.txt
+177,Enej,18,888,data/raw/Enej.txt
+178,Entetainment,20,913,data/raw/Entetainment.txt
+179,Epis Dym KNF,17,616,data/raw/Epis Dym KNF.txt
+180,Eripe,18,900,data/raw/Eripe.txt
+181,Erking,17,692,data/raw/Erking.txt
+182,Ero JWP,24,959,data/raw/Ero JWP.txt
+183,Erobeo,18,735,data/raw/Erobeo.txt
+184,FAGATA,30,1289,data/raw/FAGATA.txt
+185,FRMN,17,723,data/raw/FRMN.txt
+186,FRS,22,902,data/raw/FRS.txt
+187,Famson,19,1032,data/raw/Famson.txt
+188,Fanggotten,14,643,data/raw/Fanggotten.txt
+189,Fazi,21,748,data/raw/Fazi.txt
+190,Fejz,19,931,data/raw/Fejz.txt
+191,Fekir,14,605,data/raw/Fekir.txt
+192,Feno,20,870,data/raw/Feno.txt
+193,Filipek,27,1119,data/raw/Filipek.txt
+194,Fisz,16,1173,data/raw/Fisz.txt
+195,Fiłoń,22,807,data/raw/Fiłoń.txt
+196,Flexxy 2115,18,974,data/raw/Flexxy 2115.txt
+197,Flexys,18,974,data/raw/Flexys.txt
+198,Flint,30,1523,data/raw/Flint.txt
+199,Floral Bugs,22,1115,data/raw/Floral Bugs.txt
+200,Floras,4,83,data/raw/Floras.txt
+201,Florek,22,1115,data/raw/Florek.txt
+202,Fokus,43,2068,data/raw/Fokus.txt
+203,FonTam,31,1378,data/raw/FonTam.txt
+204,Fonciak,17,991,data/raw/Fonciak.txt
+205,FonoPe,17,810,data/raw/FonoPe.txt
+206,Franzu,17,723,data/raw/Franzu.txt
+207,Fresz,21,954,data/raw/Fresz.txt
+208,Friz,22,902,data/raw/Friz.txt
+209,Frosti,17,609,data/raw/Frosti.txt
+210,Fu,25,1164,data/raw/Fu.txt
+211,Fukaj,25,1164,data/raw/Fukaj.txt
+212,G2E,27,1185,data/raw/G2E.txt
+213,Gajowy,37,1412,data/raw/Gajowy.txt
+214,Galla,45,1807,data/raw/Galla.txt
+215,Gandi Ganda,17,797,data/raw/Gandi Ganda.txt
+216,Gargamel,38,1394,data/raw/Gargamel.txt
+217,Gawin,18,1130,data/raw/Gawin.txt
+218,Gedz,27,1185,data/raw/Gedz.txt
+219,Gentle,41,701,data/raw/Gentle.txt
+220,Genzi,17,801,data/raw/Genzi.txt
+221,Gibbs,25,1190,data/raw/Gibbs.txt
+222,Gierun,17,1357,data/raw/Gierun.txt
+223,Gimper,34,1769,data/raw/Gimper.txt
+224,Ginger,34,1769,data/raw/Ginger.txt
+225,Giu,25,1190,data/raw/Giu.txt
+226,Gix,25,1190,data/raw/Gix.txt
+227,Gizmo WDP,54,1600,data/raw/Gizmo WDP.txt
+228,Golin,34,1457,data/raw/Golin.txt
+229,Golo,32,785,data/raw/Golo.txt
+230,Gooral,48,1628,data/raw/Gooral.txt
+231,Gospel,17,958,data/raw/Gospel.txt
+232,Graf,34,1516,data/raw/Graf.txt
+233,Green,17,783,data/raw/Green.txt
+234,Grubson,49,1788,data/raw/Grubson.txt
+235,Gruby Mielzky,28,1140,data/raw/Gruby Mielzky.txt
+236,Grzechu PPZ,21,865,data/raw/Grzechu PPZ.txt
+237,Guova,17,714,data/raw/Guova.txt
+238,Guzior,33,1623,data/raw/Guzior.txt
+239,Głowa PMM,2,24,data/raw/Głowa PMM.txt
+240,HDS,22,923,data/raw/HDS.txt
+241,HMS,26,1012,data/raw/HMS.txt
+242,Hades,25,893,data/raw/Hades.txt
+243,Haju,23,913,data/raw/Haju.txt
+244,Hanszua,17,751,data/raw/Hanszua.txt
+245,Hase,26,1012,data/raw/Hase.txt
+246,Hed,39,1674,data/raw/Hed.txt
+247,Heniosław,22,1110,data/raw/Heniosław.txt
+248,Hermes,17,669,data/raw/Hermes.txt
+249,Herr Kuchen,30,1590,data/raw/Herr Kuchen.txt
+250,Hodak,17,661,data/raw/Hodak.txt
+251,Hrabia Tym$on,21,672,data/raw/Hrabia Tym$on.txt
+252,IDontExistAnymore,24,853,data/raw/IDontExistAnymore.txt
+253,IRA,33,1150,data/raw/IRA.txt
+254,Igor Herbut,31,1562,data/raw/Igor Herbut.txt
+255,Igor,28,1056,data/raw/Igor.txt
+256,Igrekzet,26,1152,data/raw/Igrekzet.txt
+257,Iksloł,18,608,data/raw/Iksloł.txt
+258,Ines,17,855,data/raw/Ines.txt
+259,Intruz,17,761,data/raw/Intruz.txt
+260,J. Kossak,17,552,data/raw/J. Kossak.txt
+261,JESTEMSZOPEN,19,698,data/raw/JESTEMSZOPEN.txt
+262,JNR,24,919,data/raw/JNR.txt
+263,JRX,17,724,data/raw/JRX.txt
+264,JWP,24,959,data/raw/JWP.txt
+265,Jaco,22,816,data/raw/Jaco.txt
+266,Jacuś,28,1190,data/raw/Jacuś.txt
+267,Jakub Józef Orliński,25,918,data/raw/Jakub Józef Orliński.txt
+268,Jakub Żulczyk,26,1211,data/raw/Jakub Żulczyk.txt
+269,Jan Rodo,26,885,data/raw/Jan Rodo.txt
+270,Jan-Rapowanie,24,1218,data/raw/Jan-Rapowanie.txt
+271,Janek Jaki,21,1082,data/raw/Janek Jaki.txt
+272,Janusz Korwin-Mikke,30,1589,data/raw/Janusz Korwin-Mikke.txt
+273,Janusz Tramwaj 3000,17,843,data/raw/Janusz Tramwaj 3000.txt
+274,Janusz Walczuk,23,1049,data/raw/Janusz Walczuk.txt
+275,Jarecki,2,24,data/raw/Jarecki.txt
+276,Jarru,19,819,data/raw/Jarru.txt
+277,Jeden,45,1882,data/raw/Jeden.txt
+278,Jery,17,550,data/raw/Jery.txt
+279,Jerzy Bralczyk,20,1143,data/raw/Jerzy Bralczyk.txt
+280,Jerzyk Krzyżyk,17,550,data/raw/Jerzyk Krzyżyk.txt
+281,Jeż,45,1882,data/raw/Jeż.txt
+282,Jimson,18,609,data/raw/Jimson.txt
+283,Jober,20,917,data/raw/Jober.txt
+284,Joda,24,1083,data/raw/Joda.txt
+285,Johnny Slim,37,1271,data/raw/Johnny Slim.txt
+286,Joka,17,535,data/raw/Joka.txt
+287,Joker,20,917,data/raw/Joker.txt
+288,Jongmen,19,770,data/raw/Jongmen.txt
+289,Josef Bratan,19,802,data/raw/Josef Bratan.txt
+290,Juchas,26,885,data/raw/Juchas.txt
+291,Julia Wieniawa,21,893,data/raw/Julia Wieniawa.txt
+292,K2,19,900,data/raw/K2.txt
+293,KOLA,17,874,data/raw/KOLA.txt
+294,KOOZA,16,687,data/raw/KOOZA.txt
+295,KPSN,21,761,data/raw/KPSN.txt
+296,KRB,18,1109,data/raw/KRB.txt
+297,KVBX,16,825,data/raw/KVBX.txt
+298,KaCeZet,17,801,data/raw/KaCeZet.txt
+299,KaHa,38,1464,data/raw/KaHa.txt
+300,Kabe,2,24,data/raw/Kabe.txt
+301,Kacper Blonsky,33,1489,data/raw/Kacper Blonsky.txt
+302,Kacper HTA,26,1245,data/raw/Kacper HTA.txt
+303,Kacper Pitala,50,2641,data/raw/Kacper Pitala.txt
+304,Kacper S.,19,829,data/raw/Kacper S..txt
+305,Kacperczyk,24,821,data/raw/Kacperczyk.txt
+306,Kaczka,17,797,data/raw/Kaczka.txt
+307,Kaczmi,15,587,data/raw/Kaczmi.txt
+308,Kaczy Proceder,21,914,data/raw/Kaczy Proceder.txt
+309,KaeN,21,962,data/raw/KaeN.txt
+310,Kafar Dix37,27,1048,data/raw/Kafar Dix37.txt
+311,Kafel,32,785,data/raw/Kafel.txt
+312,Kajszan,31,1371,data/raw/Kajszan.txt
+313,Kala,38,1464,data/raw/Kala.txt
+314,Kali,25,1054,data/raw/Kali.txt
+315,Kamerzysta,15,741,data/raw/Kamerzysta.txt
+316,Kamil Bednarek,26,1091,data/raw/Kamil Bednarek.txt
+317,Kamil Pivot,17,663,data/raw/Kamil Pivot.txt
+318,Kanda,69,2286,data/raw/Kanda.txt
+319,Karian,16,740,data/raw/Karian.txt
+320,Karol'ek,27,1245,data/raw/Karol'ek.txt
+321,Karolina Czarnecka,17,1030,data/raw/Karolina Czarnecka.txt
+322,Kartky,35,1414,data/raw/Kartky.txt
+323,Karwan,14,721,data/raw/Karwan.txt
+324,Karwel,32,785,data/raw/Karwel.txt
+325,Karzeł,32,785,data/raw/Karzeł.txt
+326,Kas,32,1148,data/raw/Kas.txt
+327,Kastet THC,32,1148,data/raw/Kastet THC.txt
+328,Katy m,21,951,data/raw/Katy m.txt
+329,Kayah,27,1140,data/raw/Kayah.txt
+330,Kaz,17,774,data/raw/Kaz.txt
+331,Kazet,17,801,data/raw/Kazet.txt
+332,Kazior,17,774,data/raw/Kazior.txt
+333,Kałach,38,1464,data/raw/Kałach.txt
+334,Kecaj,21,892,data/raw/Kecaj.txt
+335,Kedyf,22,842,data/raw/Kedyf.txt
+336,Kevlar,43,2423,data/raw/Kevlar.txt
+337,Kidd,20,961,data/raw/Kidd.txt
+338,KiddBe,30,1318,data/raw/KiddBe.txt
+339,Kiełas,27,1066,data/raw/Kiełas.txt
+340,King Of The Diamond,17,653,data/raw/King Of The Diamond.txt
+341,Kizo,43,1909,data/raw/Kizo.txt
+342,Klarenz,43,2423,data/raw/Klarenz.txt
+343,Kleszcz,18,668,data/raw/Kleszcz.txt
+344,Kobik,17,744,data/raw/Kobik.txt
+345,Kobyła,17,637,data/raw/Kobyła.txt
+346,Kodein,20,799,data/raw/Kodein.txt
+347,Koder,20,799,data/raw/Koder.txt
+348,Kojot,22,868,data/raw/Kojot.txt
+349,Kombii,17,744,data/raw/Kombii.txt
+350,Komil,15,587,data/raw/Komil.txt
+351,Koneser,16,705,data/raw/Koneser.txt
+352,Konrad Berkowicz,34,1300,data/raw/Konrad Berkowicz.txt
+353,Kopruch,31,1673,data/raw/Kopruch.txt
+354,KoreK,33,1167,data/raw/KoreK.txt
+355,Koro,22,1719,data/raw/Koro.txt
+356,Korosh,22,1719,data/raw/Korosh.txt
+357,Kosa,33,1087,data/raw/Kosa.txt
+358,Koza,33,1087,data/raw/Koza.txt
+359,Kozersky,25,1108,data/raw/Kozersky.txt
+360,Kościey,17,929,data/raw/Kościey.txt
+361,Kriz,17,1032,data/raw/Kriz.txt
+362,Kronkel Dom,17,554,data/raw/Kronkel Dom.txt
+363,Krulig,17,719,data/raw/Krulig.txt
+364,Krys,18,1109,data/raw/Krys.txt
+365,Krystyna Czubówna,18,679,data/raw/Krystyna Czubówna.txt
+366,Krzy Krzysztof,31,1158,data/raw/Krzy Krzysztof.txt
+367,Krzysztof Gonciarz,24,885,data/raw/Krzysztof Gonciarz.txt
+368,Krzysztof Kononowicz,22,904,data/raw/Krzysztof Kononowicz.txt
+369,Krzysztof Kosiński,35,1283,data/raw/Krzysztof Kosiński.txt
+370,Krzysztof Kozak,21,599,data/raw/Krzysztof Kozak.txt
+371,Krzysztof Kozik,21,599,data/raw/Krzysztof Kozik.txt
+372,Krzysztof Krawczyk,42,1777,data/raw/Krzysztof Krawczyk.txt
+373,Krzysztof Zalewski,33,1597,data/raw/Krzysztof Zalewski.txt
+374,Królik Karlos,27,1245,data/raw/Królik Karlos.txt
+375,Ksentaks,17,582,data/raw/Ksentaks.txt
+376,Kstyk,30,1084,data/raw/Kstyk.txt
+377,Kuba Knap,42,1777,data/raw/Kuba Knap.txt
+378,Kuba Wojewódzki,7,213,data/raw/Kuba Wojewódzki.txt
+379,Kuban,34,1409,data/raw/Kuban.txt
+380,Kubańczyk,13,1110,data/raw/Kubańczyk.txt
+381,Kubi Producent,21,786,data/raw/Kubi Producent.txt
+382,Kucior,33,1388,data/raw/Kucior.txt
+383,Kufi,21,786,data/raw/Kufi.txt
+384,Kuki,25,1128,data/raw/Kuki.txt
+385,Kukon,25,1128,data/raw/Kukon.txt
+386,Kuqe 2115,25,1059,data/raw/Kuqe 2115.txt
+387,Kurian,34,1409,data/raw/Kurian.txt
+388,Kurzaw,21,743,data/raw/Kurzaw.txt
+389,Kuszcz,18,668,data/raw/Kuszcz.txt
+390,Kuszi,39,1210,data/raw/Kuszi.txt
+391,Kvbis,16,825,data/raw/Kvbis.txt
+392,Kwiat Jabłoni,27,699,data/raw/Kwiat Jabłoni.txt
+393,KęKę,24,936,data/raw/KęKę.txt
+394,KŁODZIAN,12,798,data/raw/KŁODZIAN.txt
+395,L PRO,41,701,data/raw/L PRO.txt
+396,L.U.C.,17,761,data/raw/L.U.C..txt
+397,LEMI,2,24,data/raw/LEMI.txt
+398,LETNI,15,336,data/raw/LETNI.txt
+399,Laikike1,20,1480,data/raw/Laikike1.txt
+400,Lanek,15,587,data/raw/Lanek.txt
+401,Lazy the Loser,24,1091,data/raw/Lazy the Loser.txt
+402,Legendarny Afrojax,20,904,data/raw/Legendarny Afrojax.txt
+403,Leny da fam,25,1501,data/raw/Leny da fam.txt
+404,Liber,22,930,data/raw/Liber.txt
+405,Lil Masti,43,1303,data/raw/Lil Masti.txt
+406,Lil PaY,17,734,data/raw/Lil PaY.txt
+407,Lilow,17,746,data/raw/Lilow.txt
+408,Lilu,40,1146,data/raw/Lilu.txt
+409,Lipa,47,1681,data/raw/Lipa.txt
+410,Liroy,22,722,data/raw/Liroy.txt
+411,Lis Kula,24,1125,data/raw/Lis Kula.txt
+412,Locomode,17,682,data/raw/Locomode.txt
+413,Loko,17,682,data/raw/Loko.txt
+414,Lordofon,25,1169,data/raw/Lordofon.txt
+415,Louis Villain,18,743,data/raw/Louis Villain.txt
+416,Lubin,17,694,data/raw/Lubin.txt
+417,Lucek,17,774,data/raw/Lucek.txt
+418,Lukasyno,18,1099,data/raw/Lukasyno.txt
+419,Lukier,17,591,data/raw/Lukier.txt
+420,Luxus,26,1415,data/raw/Luxus.txt
+421,MAGDI,34,1122,data/raw/MAGDI.txt
+422,MAT,35,1224,data/raw/MAT.txt
+423,MC Gey,74,2010,data/raw/MC Gey.txt
+424,MC Silk,74,2010,data/raw/MC Silk.txt
+425,MC Sobieski,25,948,data/raw/MC Sobieski.txt
+426,MVRTWY †,26,1036,data/raw/MVRTWY †.txt
+427,MXN,18,853,data/raw/MXN.txt
+428,Mada,25,978,data/raw/Mada.txt
+429,Majkel Buszu,29,1314,data/raw/Majkel Buszu.txt
+430,Majki,29,1314,data/raw/Majki.txt
+431,Major SPZ,49,2239,data/raw/Major SPZ.txt
+432,Major Suchodolski,41,701,data/raw/Major Suchodolski.txt
+433,Maka,18,671,data/raw/Maka.txt
+434,Mamiko,17,967,data/raw/Mamiko.txt
+435,Marceli Bober,20,752,data/raw/Marceli Bober.txt
+436,Marcin Flint,42,2543,data/raw/Marcin Flint.txt
+437,Marcysia,32,794,data/raw/Marcysia.txt
+438,Margaret,34,1122,data/raw/Margaret.txt
+439,Marian Lichtman,93,2362,data/raw/Marian Lichtman.txt
+440,Marianne,12,858,data/raw/Marianne.txt
+441,Martyn ESM,16,550,data/raw/Martyn ESM.txt
+442,Mata,25,1016,data/raw/Mata.txt
+443,Matheo,24,1143,data/raw/Matheo.txt
+444,Małach,20,1234,data/raw/Małach.txt
+445,Małpa,17,786,data/raw/Małpa.txt
+446,Medusa,17,606,data/raw/Medusa.txt
+447,Meek,77,2150,data/raw/Meek.txt
+448,Merghani,14,725,data/raw/Merghani.txt
+449,MiZeb,17,823,data/raw/MiZeb.txt
+450,Michał Anioł,15,336,data/raw/Michał Anioł.txt
+451,Michał Karmowski,26,1479,data/raw/Michał Karmowski.txt
+452,Michał Pol,25,1016,data/raw/Michał Pol.txt
+453,Michał Rusinek,17,809,data/raw/Michał Rusinek.txt
+454,Michał Tomasik,21,772,data/raw/Michał Tomasik.txt
+455,Michał Wrzos,36,1441,data/raw/Michał Wrzos.txt
+456,Miexon,22,1103,data/raw/Miexon.txt
+457,Migekk,23,721,data/raw/Migekk.txt
+458,Miki,18,673,data/raw/Miki.txt
+459,Mikser,23,1026,data/raw/Mikser.txt
+460,Mini Majk,29,759,data/raw/Mini Majk.txt
+461,Minix,29,759,data/raw/Minix.txt
+462,Miłka Żmuda,17,681,data/raw/Miłka Żmuda.txt
+463,Miły ATZ,92,3017,data/raw/Miły ATZ.txt
+464,Mleko,26,1025,data/raw/Mleko.txt
+465,Mlodyafik,40,2568,data/raw/Mlodyafik.txt
+466,Mokebe,21,925,data/raw/Mokebe.txt
+467,Moli,33,1199,data/raw/Moli.txt
+468,Monia,26,891,data/raw/Monia.txt
+469,Mr. Polska,37,1647,data/raw/Mr. Polska.txt
+470,Mucha,25,1016,data/raw/Mucha.txt
+471,Mufasa,17,606,data/raw/Mufasa.txt
+472,Muflon,19,840,data/raw/Muflon.txt
+473,Murcix,17,529,data/raw/Murcix.txt
+474,Murzyn,16,550,data/raw/Murzyn.txt
+475,Młodszy joe,19,882,data/raw/Młodszy joe.txt
+476,Młody Dzban,37,1412,data/raw/Młody Dzban.txt
+477,Młody Jedi,24,1003,data/raw/Młody Jedi.txt
+478,Młody Karter,2,24,data/raw/Młody Karter.txt
+479,Młody M,24,919,data/raw/Młody M.txt
+480,Młody RoLi,21,709,data/raw/Młody RoLi.txt
+481,Młody ZDS,16,709,data/raw/Młody ZDS.txt
+482,Młody Zgred,17,822,data/raw/Młody Zgred.txt
+483,Młody Żmija,33,1136,data/raw/Młody Żmija.txt
+484,Młodzian,2,24,data/raw/Młodzian.txt
+485,NOEMI,3585,25989,data/raw/NOEMI.txt
+486,NUF,23,1252,data/raw/NUF.txt
+487,Napster,17,760,data/raw/Napster.txt
+488,Natalia Kukulska,2,27,data/raw/Natalia Kukulska.txt
+489,Natalia Szroeder,26,759,data/raw/Natalia Szroeder.txt
+490,Nath,20,551,data/raw/Nath.txt
+491,Natsu,30,903,data/raw/Natsu.txt
+492,Neile,63,3244,data/raw/Neile.txt
+493,Nik Tendo,22,1103,data/raw/Nik Tendo.txt
+494,Nizioł,27,991,data/raw/Nizioł.txt
+495,Nizzlie,34,1281,data/raw/Nizzlie.txt
+496,Nobodyinfact,24,921,data/raw/Nobodyinfact.txt
+497,Noemi,3585,25989,data/raw/Noemi.txt
+498,Noon,47,1558,data/raw/Noon.txt
+499,Norbi,18,809,data/raw/Norbi.txt
+500,Nowak,33,1728,data/raw/Nowak.txt
+501,Nuk,23,1252,data/raw/Nuk.txt
+502,Numer Raz,23,1252,data/raw/Numer Raz.txt
+503,Nycto,20,733,data/raw/Nycto.txt
+504,O.S.T.R.,31,1981,data/raw/O.S.T.R..txt
+505,OG Olgierd,23,703,data/raw/OG Olgierd.txt
+506,ORB1t,17,708,data/raw/ORB1t.txt
+507,OWCZAREK,17,424,data/raw/OWCZAREK.txt
+508,Odie,17,757,data/raw/Odie.txt
+509,Oh Why,77,2150,data/raw/Oh Why.txt
+510,Oki,44,1885,data/raw/Oki.txt
+511,Ola Kot,32,937,data/raw/Ola Kot.txt
+512,Oorbit,4,893,data/raw/Oorbit.txt
+513,Opał,51,2007,data/raw/Opał.txt
+514,Osaka,44,1885,data/raw/Osaka.txt
+515,Otsochodzi,19,641,data/raw/Otsochodzi.txt
+516,Oxon,17,1173,data/raw/Oxon.txt
+517,PARA,17,598,data/raw/PARA.txt
+518,PECTUS,23,1498,data/raw/PECTUS.txt
+519,PIRO,33,1388,data/raw/PIRO.txt
+520,PLC,24,1143,data/raw/PLC.txt
+521,PLK,24,1143,data/raw/PLK.txt
+522,PN,23,854,data/raw/PN.txt
+523,POE,26,954,data/raw/POE.txt
+524,Pablo 2115,26,744,data/raw/Pablo 2115.txt
+525,Pablo Novacci,21,899,data/raw/Pablo Novacci.txt
+526,Pajczi,24,991,data/raw/Pajczi.txt
+527,Pako,53,1731,data/raw/Pako.txt
+528,Palion,21,875,data/raw/Palion.txt
+529,Paluch,27,1451,data/raw/Paluch.txt
+530,Pan Wankz,21,781,data/raw/Pan Wankz.txt
+531,Paris Platynov,17,598,data/raw/Paris Platynov.txt
+532,Patecki,11,729,data/raw/Patecki.txt
+533,Pater,25,949,data/raw/Pater.txt
+534,Pathos,25,736,data/raw/Pathos.txt
+535,Patrykos,41,1394,data/raw/Patrykos.txt
+536,Paulina Przybysz,21,875,data/raw/Paulina Przybysz.txt
+537,Pavulo,21,875,data/raw/Pavulo.txt
+538,Paweł Domagała,23,681,data/raw/Paweł Domagała.txt
+539,Pawko CS,21,961,data/raw/Pawko CS.txt
+540,Pebe,31,1305,data/raw/Pebe.txt
+541,PeeRZet,31,1305,data/raw/PeeRZet.txt
+542,Percept,17,614,data/raw/Percept.txt
+543,Peus,23,1498,data/raw/Peus.txt
+544,Pezet,31,1305,data/raw/Pezet.txt
+545,Phovid,2,24,data/raw/Phovid.txt
+546,PiH,30,1061,data/raw/PiH.txt
+547,Piekielny,17,1100,data/raw/Piekielny.txt
+548,Pikers,28,936,data/raw/Pikers.txt
+549,PioruN,44,2130,data/raw/PioruN.txt
+550,Piotr Cartman,29,1685,data/raw/Piotr Cartman.txt
+551,Piotr Rubik,31,1660,data/raw/Piotr Rubik.txt
+552,Piotr Twardowski,17,580,data/raw/Piotr Twardowski.txt
+553,Piotrek,25,827,data/raw/Piotrek.txt
+554,Pit,28,936,data/raw/Pit.txt
+555,PiterO,28,936,data/raw/PiterO.txt
+556,Pitzo,17,765,data/raw/Pitzo.txt
+557,Pjus,28,1237,data/raw/Pjus.txt
+558,PlanBe,22,847,data/raw/PlanBe.txt
+559,Planet ANM,17,1090,data/raw/Planet ANM.txt
+560,Po Prostu Kajtek,23,850,data/raw/Po Prostu Kajtek.txt
+561,Poczciwy Krzychu,17,739,data/raw/Poczciwy Krzychu.txt
+562,Pojechane gadki,21,1036,data/raw/Pojechane gadki.txt
+563,Polkoś,37,1647,data/raw/Polkoś.txt
+564,Pomidor,2,24,data/raw/Pomidor.txt
+565,Popek,26,954,data/raw/Popek.txt
+566,Populous,43,2016,data/raw/Populous.txt
+567,Pressa,26,1067,data/raw/Pressa.txt
+568,Pro,33,1388,data/raw/Pro.txt
+569,Proceente,33,1388,data/raw/Proceente.txt
+570,Przemek Ferguson,21,908,data/raw/Przemek Ferguson.txt
+571,Przetok,21,908,data/raw/Przetok.txt
+572,Przyłu,19,1217,data/raw/Przyłu.txt
+573,Próżnia,29,1320,data/raw/Próżnia.txt
+574,Pshemo,33,1619,data/raw/Pshemo.txt
+575,Pueblos,17,789,data/raw/Pueblos.txt
+576,Puoć,33,1388,data/raw/Puoć.txt
+577,Puszka,28,1237,data/raw/Puszka.txt
+578,Płatek,17,651,data/raw/Płatek.txt
+579,Qbik,29,1069,data/raw/Qbik.txt
+580,Qraz,27,957,data/raw/Qraz.txt
+581,Qry,16,759,data/raw/Qry.txt
+582,Quaz,27,957,data/raw/Quaz.txt
+583,Quebonafide,30,1269,data/raw/Quebonafide.txt
+584,R.A.U.,21,596,data/raw/R.A.U..txt
+585,R.V.G,14,750,data/raw/R.V.G.txt
+586,R.eS,21,1093,data/raw/R.eS.txt
+587,RIO,17,881,data/raw/RIO.txt
+588,RSX,17,735,data/raw/RSX.txt
+589,RUSKIEFAJKI,20,930,data/raw/RUSKIEFAJKI.txt
+590,Radio,48,1703,data/raw/Radio.txt
+591,Rafał Brzozowski,32,1635,data/raw/Rafał Brzozowski.txt
+592,Rafał Pacześ,24,991,data/raw/Rafał Pacześ.txt
+593,Rafonix,20,697,data/raw/Rafonix.txt
+594,Rajs,17,793,data/raw/Rajs.txt
+595,Rakos,48,1703,data/raw/Rakos.txt
+596,Ralph Kaminski,18,649,data/raw/Ralph Kaminski.txt
+597,Ramona Rey,24,759,data/raw/Ramona Rey.txt
+598,Raportagen,25,1133,data/raw/Raportagen.txt
+599,ReTo,19,995,data/raw/ReTo.txt
+600,Remo,16,917,data/raw/Remo.txt
+601,Rena,22,719,data/raw/Rena.txt
+602,Rene,29,791,data/raw/Rene.txt
+603,Reno,29,791,data/raw/Reno.txt
+604,Repeat,17,874,data/raw/Repeat.txt
+605,Rethro,19,995,data/raw/Rethro.txt
+606,Ricardo,17,1001,data/raw/Ricardo.txt
+607,Rich Homie Kshan,17,1054,data/raw/Rich Homie Kshan.txt
+608,Riki Milioner,21,774,data/raw/Riki Milioner.txt
+609,Robin Zoot,21,822,data/raw/Robin Zoot.txt
+610,Roho,26,885,data/raw/Roho.txt
+611,Roksana Węgiel,17,735,data/raw/Roksana Węgiel.txt
+612,Rolex,25,1145,data/raw/Rolex.txt
+613,Rompey,17,788,data/raw/Rompey.txt
+614,Ronin,17,881,data/raw/Ronin.txt
+615,Ronnie Ferrari,17,881,data/raw/Ronnie Ferrari.txt
+616,Rosalie.,21,597,data/raw/Rosalie..txt
+617,Rover,14,530,data/raw/Rover.txt
+618,Rudolf,17,715,data/raw/Rudolf.txt
+619,Ry23,17,715,data/raw/Ry23.txt
+620,Rychu,22,1026,data/raw/Rychu.txt
+621,Rzabka,2,24,data/raw/Rzabka.txt
+622,Rzydu,29,1729,data/raw/Rzydu.txt
+623,SBF,27,1078,data/raw/SBF.txt
+624,SLT,23,941,data/raw/SLT.txt
+625,SMVRF,18,771,data/raw/SMVRF.txt
+626,SZESNY,33,876,data/raw/SZESNY.txt
+627,Saful,27,1078,data/raw/Saful.txt
+628,Santana OZP,9,585,data/raw/Santana OZP.txt
+629,Sapi Tha King,30,1286,data/raw/Sapi Tha King.txt
+630,Sara Jaroszyk,2,24,data/raw/Sara Jaroszyk.txt
+631,Sarius,43,1625,data/raw/Sarius.txt
+632,Sarsa,23,707,data/raw/Sarsa.txt
+633,Sawa SPZ,2,24,data/raw/Sawa SPZ.txt
+634,Screamy,36,1140,data/raw/Screamy.txt
+635,Sebastian Fabijański,21,748,data/raw/Sebastian Fabijański.txt
+636,Segi,16,771,data/raw/Segi.txt
+637,Sensey,19,685,data/raw/Sensey.txt
+638,Sensi,26,1355,data/raw/Sensi.txt
+639,Senti,41,1761,data/raw/Senti.txt
+640,Sentino,41,1761,data/raw/Sentino.txt
+641,Shako,17,599,data/raw/Shako.txt
+642,Shellerini,17,746,data/raw/Shellerini.txt
+643,Sid,33,868,data/raw/Sid.txt
+644,Sidney Polak,33,868,data/raw/Sidney Polak.txt
+645,Sikor,31,971,data/raw/Sikor.txt
+646,Siles,38,1224,data/raw/Siles.txt
+647,Simonu,20,873,data/raw/Simonu.txt
+648,Sinus,20,873,data/raw/Sinus.txt
+649,Sitek,17,702,data/raw/Sitek.txt
+650,Sivy,17,1741,data/raw/Sivy.txt
+651,Siwers,17,753,data/raw/Siwers.txt
+652,Skat,17,767,data/raw/Skat.txt
+653,Skinny,40,2568,data/raw/Skinny.txt
+654,Skip,29,671,data/raw/Skip.txt
+655,Skor,31,971,data/raw/Skor.txt
+656,Skorup,31,971,data/raw/Skorup.txt
+657,Skotar,28,1458,data/raw/Skotar.txt
+658,Skrubol,20,817,data/raw/Skrubol.txt
+659,Skubas,31,1312,data/raw/Skubas.txt
+660,Slim Szczegi,31,1109,data/raw/Slim Szczegi.txt
+661,Smack,36,1264,data/raw/Smack.txt
+662,Smolasty,25,748,data/raw/Smolasty.txt
+663,Smuga,24,819,data/raw/Smuga.txt
+664,Smutny,19,767,data/raw/Smutny.txt
+665,Snoop Dogg,53,2134,data/raw/Snoop Dogg.txt
+666,Sobel,17,751,data/raw/Sobel.txt
+667,Sobota,24,972,data/raw/Sobota.txt
+668,Sokół,32,1127,data/raw/Sokół.txt
+669,Solar,28,1458,data/raw/Solar.txt
+670,SolarBiałas,74,2424,data/raw/SolarBiałas.txt
+671,Solei,45,1079,data/raw/Solei.txt
+672,Spec,33,1039,data/raw/Spec.txt
+673,Spejson,33,1039,data/raw/Spejson.txt
+674,Spinache,28,1121,data/raw/Spinache.txt
+675,Stary Kosmit,17,517,data/raw/Stary Kosmit.txt
+676,Stasiak,17,748,data/raw/Stasiak.txt
+677,Struni,2,46,data/raw/Struni.txt
+678,Sylwia Przybysz,19,786,data/raw/Sylwia Przybysz.txt
+679,Symer,25,942,data/raw/Symer.txt
+680,Syny,16,625,data/raw/Syny.txt
+681,SzUsty,33,876,data/raw/SzUsty.txt
+682,Szczena,24,799,data/raw/Szczena.txt
+683,Szczepan,24,799,data/raw/Szczepan.txt
+684,Szczyl,17,642,data/raw/Szczyl.txt
+685,Szesnasty,2,24,data/raw/Szesnasty.txt
+686,Szopeen,21,937,data/raw/Szopeen.txt
+687,Szpaku,35,1224,data/raw/Szpaku.txt
+688,Szuszeq,23,952,data/raw/Szuszeq.txt
+689,Szy'meh,18,734,data/raw/Szy'meh.txt
+690,SzyderczyHalasVlog,32,785,data/raw/SzyderczyHalasVlog.txt
+691,Szymi Szyms,23,1109,data/raw/Szymi Szyms.txt
+692,Szymko,17,751,data/raw/Szymko.txt
+693,Szymkus,2,144,data/raw/Szymkus.txt
+694,Szynski,17,788,data/raw/Szynski.txt
+695,Sławomir Mentzen,36,1514,data/raw/Sławomir Mentzen.txt
+696,Słoń,63,2848,data/raw/Słoń.txt
+697,TKM,8,951,data/raw/TKM.txt
+698,TPDW,2,31,data/raw/TPDW.txt
+699,TPS,17,766,data/raw/TPS.txt
+700,Taco Hemingway,34,1563,data/raw/Taco Hemingway.txt
+701,Taconafide,65,2493,data/raw/Taconafide.txt
+702,Tasiek,17,764,data/raw/Tasiek.txt
+703,Tata Maty,25,961,data/raw/Tata Maty.txt
+704,Tau,37,1240,data/raw/Tau.txt
+705,Taxita,17,947,data/raw/Taxita.txt
+706,Taz,65,2493,data/raw/Taz.txt
+707,Te-Tris,56,2700,data/raw/Te-Tris.txt
+708,Teabe,17,842,data/raw/Teabe.txt
+709,Teddybear,26,680,data/raw/Teddybear.txt
+710,Tede,26,680,data/raw/Tede.txt
+711,Ten Preston,26,1067,data/raw/Ten Preston.txt
+712,Ten Typ Mes,32,957,data/raw/Ten Typ Mes.txt
+713,Theodor,18,766,data/raw/Theodor.txt
+714,ThinPipe,17,967,data/raw/ThinPipe.txt
+715,Thomas,33,731,data/raw/Thomas.txt
+716,TiDUS,64,1218,data/raw/TiDUS.txt
+717,Toczek,85,3041,data/raw/Toczek.txt
+718,Tom Schklaneck,20,842,data/raw/Tom Schklaneck.txt
+719,TomB,28,1140,data/raw/TomB.txt
+720,Tomasin,28,1140,data/raw/Tomasin.txt
+721,Tomasz Knapik,18,903,data/raw/Tomasz Knapik.txt
+722,Tomasz Terka,18,786,data/raw/Tomasz Terka.txt
+723,Tomcio,17,883,data/raw/Tomcio.txt
+724,Tommy Craze,55,2169,data/raw/Tommy Craze.txt
+725,Tommy,17,780,data/raw/Tommy.txt
+726,Tomson,21,773,data/raw/Tomson.txt
+727,Tondos,22,1103,data/raw/Tondos.txt
+728,Tony23,17,984,data/raw/Tony23.txt
+729,Trap Typieee,2,33,data/raw/Trap Typieee.txt
+730,Trill Pem,25,861,data/raw/Trill Pem.txt
+731,Tromba,21,646,data/raw/Tromba.txt
+732,Trzaski,29,1270,data/raw/Trzaski.txt
+733,Trzy-Sześć,77,1918,data/raw/Trzy-Sześć.txt
+734,Tuzza,2,24,data/raw/Tuzza.txt
+735,Tymek,18,642,data/raw/Tymek.txt
+736,Tymin,35,1739,data/raw/Tymin.txt
+737,Undadasea,29,1298,data/raw/Undadasea.txt
+738,V3L3M3NT,33,673,data/raw/V3L3M3NT.txt
+739,VAN,21,781,data/raw/VAN.txt
+740,VBS,22,944,data/raw/VBS.txt
+741,VIC,21,743,data/raw/VIC.txt
+742,VNM,25,1291,data/raw/VNM.txt
+743,Vae Vistic,18,759,data/raw/Vae Vistic.txt
+744,Vienio,17,688,data/raw/Vienio.txt
+745,Vigo,17,820,data/raw/Vigo.txt
+746,Viki Gabor,25,785,data/raw/Viki Gabor.txt
+747,Viktor Sheen,23,1129,data/raw/Viktor Sheen.txt
+748,Vinci,17,688,data/raw/Vinci.txt
+749,Vitali,22,624,data/raw/Vitali.txt
+750,Vito Bambino,20,871,data/raw/Vito Bambino.txt
+751,Vkie,21,1191,data/raw/Vkie.txt
+752,WARGA,52,1985,data/raw/WARGA.txt
+753,WSZ,20,873,data/raw/WSZ.txt
+754,WYRO,2,645,data/raw/WYRO.txt
+755,Wac Toja,31,897,data/raw/Wac Toja.txt
+756,Waldemar Kasta,33,1246,data/raw/Waldemar Kasta.txt
+757,Warszawski,17,811,data/raw/Warszawski.txt
+758,WdoWA,23,1112,data/raw/WdoWA.txt
+759,Wergawer,2,18,data/raw/Wergawer.txt
+760,Weronika Juszczak,15,620,data/raw/Weronika Juszczak.txt
+761,Wersonii,15,620,data/raw/Wersonii.txt
+762,Wersow,2,18,data/raw/Wersow.txt
+763,White 2115,31,1312,data/raw/White 2115.txt
+764,White Widow,75,2982,data/raw/White Widow.txt
+765,WiP Bros,84,2945,data/raw/WiP Bros.txt
+766,Wiktor z WWA,40,1583,data/raw/Wiktor z WWA.txt
+767,Wini,15,688,data/raw/Wini.txt
+768,Wojciech Wojda,31,1061,data/raw/Wojciech Wojda.txt
+769,Wojni,63,2848,data/raw/Wojni.txt
+770,Wojtas,31,1061,data/raw/Wojtas.txt
+771,Wojti,43,2016,data/raw/Wojti.txt
+772,Wyga,65,2807,data/raw/Wyga.txt
+773,Wøjtek,32,1127,data/raw/Wøjtek.txt
+774,Włodi,37,1647,data/raw/Włodi.txt
+775,Yachu,34,1738,data/raw/Yachu.txt
+776,Yans,17,642,data/raw/Yans.txt
+777,Yapi,17,642,data/raw/Yapi.txt
+778,Young Finn,18,797,data/raw/Young Finn.txt
+779,Young Igi,28,1056,data/raw/Young Igi.txt
+780,Young Kai,17,532,data/raw/Young Kai.txt
+781,Young Leosia,23,707,data/raw/Young Leosia.txt
+782,Young Lungs,40,1407,data/raw/Young Lungs.txt
+783,Young Multi,35,1882,data/raw/Young Multi.txt
+784,Yung Adisz,27,900,data/raw/Yung Adisz.txt
+785,Yurkosky,20,1099,data/raw/Yurkosky.txt
+786,Yzomandias,21,771,data/raw/Yzomandias.txt
+787,ZBUKU,44,1629,data/raw/ZBUKU.txt
+788,ZDN,16,709,data/raw/ZDN.txt
+789,Zagi,36,1441,data/raw/Zagi.txt
+790,Zajonc,2,1199,data/raw/Zajonc.txt
+791,Zarzycki,31,944,data/raw/Zarzycki.txt
+792,Zbigniew Stonoga,23,762,data/raw/Zbigniew Stonoga.txt
+793,Zbr,23,762,data/raw/Zbr.txt
+794,Zeamsone,35,1731,data/raw/Zeamsone.txt
+795,Zelo,51,2341,data/raw/Zelo.txt
+796,Zero,51,2341,data/raw/Zero.txt
+797,Zespół Pieśni i Tańca Śląsk,17,731,data/raw/Zespół Pieśni i Tańca Śląsk.txt
+798,ZetHa,30,1241,data/raw/ZetHa.txt
+799,Zetu,32,1284,data/raw/Zetu.txt
+800,Zeus,28,1105,data/raw/Zeus.txt
+801,Zip Skład,31,988,data/raw/Zip Skład.txt
+802,Zisar,23,1053,data/raw/Zisar.txt
+803,a.Lee,41,1392,data/raw/a.Lee.txt
+804,ajgxrek,11,513,data/raw/ajgxrek.txt
+805,alyona alyona,17,839,data/raw/alyona alyona.txt
+806,anonim,33,1089,data/raw/anonim.txt
+807,atutowy,27,1010,data/raw/atutowy.txt
+808,basboy,21,985,data/raw/basboy.txt
+809,be vis,26,1375,data/raw/be vis.txt
+810,blank,20,649,data/raw/blank.txt
+811,ceber,17,693,data/raw/ceber.txt
+812,coldkevin,17,698,data/raw/coldkevin.txt
+813,dead_itvchi,17,588,data/raw/dead_itvchi.txt
+814,deadgreenbird,22,851,data/raw/deadgreenbird.txt
+815,dorski,23,1357,data/raw/dorski.txt
+816,erlejs,26,768,data/raw/erlejs.txt
+817,fiflak,25,988,data/raw/fiflak.txt
+818,ghast,38,1258,data/raw/ghast.txt
+819,gottastral,20,822,data/raw/gottastral.txt
+820,happyboys,17,560,data/raw/happyboys.txt
+821,hubithekid,31,1215,data/raw/hubithekid.txt
+822,infinitum,37,1934,data/raw/infinitum.txt
+823,janigunz,17,501,data/raw/janigunz.txt
+824,ks. Jakub Bartczak,13,797,data/raw/ks. Jakub Bartczak.txt
+825,kuba,7,213,data/raw/kuba.txt
+826,lelek,38,1176,data/raw/lelek.txt
+827,maly elvis,20,738,data/raw/maly elvis.txt
+828,miZu,17,823,data/raw/miZu.txt
+829,mlodyskiny,19,760,data/raw/mlodyskiny.txt
+830,młody yerba,19,603,data/raw/młody yerba.txt
+831,obi,17,914,data/raw/obi.txt
+832,olszakumpel,18,1109,data/raw/olszakumpel.txt
+833,ozzy baby,27,972,data/raw/ozzy baby.txt
+834,palmy,20,475,data/raw/palmy.txt
+835,patr00,33,1089,data/raw/patr00.txt
+836,sanah,39,692,data/raw/sanah.txt
+837,schafter,19,905,data/raw/schafter.txt
+838,sip,39,1716,data/raw/sip.txt
+839,spre,33,1039,data/raw/spre.txt
+840,szymeh,18,734,data/raw/szymeh.txt
+841,słoneczny maciuś,74,2424,data/raw/słoneczny maciuś.txt
+842,tvrnvs,17,775,data/raw/tvrnvs.txt
+843,wjk,25,785,data/raw/wjk.txt
+844,wszedzieZUBER,20,873,data/raw/wszedzieZUBER.txt
+845,yung ginger,22,900,data/raw/yung ginger.txt
+846,zdechły osa,16,709,data/raw/zdechły osa.txt
+847,Łajzol,21,920,data/raw/Łajzol.txt
+848,Łona,22,1137,data/raw/Łona.txt
+849,Łowicz 2115,21,1290,data/raw/Łowicz 2115.txt
+850,Łysonżi,16,668,data/raw/Łysonżi.txt
+851,Śliwa,39,1688,data/raw/Śliwa.txt
+852,Śmiechu,25,965,data/raw/Śmiechu.txt
+853,Śpiący,28,1121,data/raw/Śpiący.txt
+854,Świat Matyldy,24,1127,data/raw/Świat Matyldy.txt
+855,Żabson,33,1603,data/raw/Żabson.txt
+856,Żeton,42,1777,data/raw/Żeton.txt
+857,Русский,3585,25989,data/raw/Русский.txt
+858,• ukeboy •,18,817,data/raw/• ukeboy •.txt

@@ -1,0 +1,13 @@
+beautifulsoup4
+lyricsgenius
+requests
+pandas
+numpy
+matplotlib
+openpyxl
+
+# Optional (uncomment if needed):
+# tqdm
+# python-dotenv
+# pillow
+idna==3.11
